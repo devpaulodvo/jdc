@@ -8,7 +8,6 @@ function App() {
   const element = <Home/>;
   return (
       <Routes>
-      <Route path="/jdc/" element={element}/>
         <Route path="/jdc/" element={element}/>
         <Route path="/jdc/home" element={<Home/>}/>
         <Route path="/jdc/aboutus" element={<About/>}/>
