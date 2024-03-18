@@ -35,7 +35,7 @@ const About = () => {
                     with both our customers and suppliers, built on trust and mutual respect.
                     <br/>
                     <br/>
-                    <span>Thank you</span> for choosing Jelyn's Poultry and Dressing Plant as your trusted poultry partner. We look forward to serving you and exceeding your expectations every step of the way.
+                    <span>Thank you</span> for choosing Jelyn's Poultry and Dressing Plant as your trusted partner. We look forward to serving you and exceeding your expectations every step of the way.
 
 
                 </p>

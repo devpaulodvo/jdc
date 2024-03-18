@@ -16,16 +16,14 @@ const Footer = () => {
         <div className={`${styles.maincontainer}`}>   
             <div className={`${styles.container}`}>
                 <ul className={`${styles.footerul}`}>
-                    <NavLink to={"/"}>
-                        <li>
-                            Home
-                        </li>
+                    <NavLink to={"/jdc/"}>
+                        <li>Home</li>
                     </NavLink>
-                    <NavLink to={"/aboutus"}>
+                    <NavLink to={"/jdc/aboutus"}>
                         <li>About Us</li>
                     </NavLink>
-                        {/* <li>Products</li> */}
-                    <NavLink to={"/contactus"}>
+                    {/* <li>Products</li> */}
+                    <NavLink to={"/jdc/contactus"}>
                         <li>Contact Us</li>
                     </NavLink>
                 </ul>
