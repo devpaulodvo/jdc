@@ -1,6 +1,6 @@
 {
   "homepage": "https://devpaulodvo.github.io/jdc",
-  "name": "jdc",
+  "name": "jdc-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

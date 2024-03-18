@@ -12,14 +12,14 @@ const HomeNav = () =>{
     return(
         <div className={`${styles.container}`}>
             <ul ref={navRef} className={`${styles.navlist}`}>
-                <NavLink to={"/"}>
+                <NavLink to={"/jdc/"}>
                     <li>Jelyn's</li>
                 </NavLink>
-                <NavLink to={"/aboutus"}>
+                <NavLink to={"/jdc/aboutus"}>
                     <li>About Us</li>
                 </NavLink>
                 {/* <li>Products</li> */}
-                <NavLink to={"/contactus"}>
+                <NavLink to={"/jdc/contactus"}>
                     <li>Contact Us</li>
                 </NavLink>
                 <button onClick={showNavBar} className={`${styles.navBtn} ${styles.navClose}`} >

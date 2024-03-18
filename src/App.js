@@ -8,10 +8,11 @@ function App() {
   const element = <Home/>;
   return (
       <Routes>
-        <Route path="/" element={element}/>
-        <Route path="/home" element={<Home/>}/>
-        <Route path="/aboutus" element={<About/>}/>
-        <Route path="/contactus" element={<Contact/>}/>
+      <Route path="/" element={element}/>
+        <Route path="/jdc/" element={element}/>
+        <Route path="/jdc/home" element={<Home/>}/>
+        <Route path="/jdc/aboutus" element={<About/>}/>
+        <Route path="/jdc/contactus" element={<Contact/>}/>
         {/* <Route path="*" element={<Navigate to="/404"/>} /> */}
       </Routes>
   );
