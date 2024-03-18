@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jdc/static/css/main.90f2420c.css",
-    "main.js": "/jdc/static/js/main.c1ff7b47.js",
+    "main.js": "/jdc/static/js/main.52709e29.js",
     "static/media/JDC2.png": "/jdc/static/media/JDC2.aea3abf6816b843c8e45.png",
     "static/media/livechicken-min.png": "/jdc/static/media/livechicken-min.8bbc13f7e71cd8410d85.png",
     "static/media/chickenliver-min.png": "/jdc/static/media/chickenliver-min.b798ef988346809b9461.png",
@@ -16,10 +16,10 @@
     "static/media/sanmiglogo.png": "/jdc/static/media/sanmiglogo.341c61bdc4abbde59c85.png",
     "index.html": "/jdc/index.html",
     "main.90f2420c.css.map": "/jdc/static/css/main.90f2420c.css.map",
-    "main.c1ff7b47.js.map": "/jdc/static/js/main.c1ff7b47.js.map"
+    "main.52709e29.js.map": "/jdc/static/js/main.52709e29.js.map"
   },
   "entrypoints": [
     "static/css/main.90f2420c.css",
-    "static/js/main.c1ff7b47.js"
+    "static/js/main.52709e29.js"
   ]
 }
