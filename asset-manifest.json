@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/jdc/static/css/main.0310efe6.css",
-    "main.js": "/jdc/static/js/main.c041ddc4.js",
-    "static/media/JDC2.png": "/jdc/static/media/JDC2.aea3abf6816b843c8e45.png",
-    "static/media/livechicken-min.png": "/jdc/static/media/livechicken-min.8bbc13f7e71cd8410d85.png",
-    "static/media/chickenliver-min.png": "/jdc/static/media/chickenliver-min.b798ef988346809b9461.png",
-    "static/media/freshchicken.png": "/jdc/static/media/freshchicken.5ea525aa7b601384898e.png",
-    "static/media/JDC3.png": "/jdc/static/media/JDC3.50b35f7f6af1c11581bf.png",
-    "static/media/plant.png": "/jdc/static/media/plant.81943100d5743adc86e3.png",
-    "static/media/chickenfeet-min.png": "/jdc/static/media/chickenfeet-min.a7750ba8a69bf97ab1f0.png",
-    "static/media/JDC1.png": "/jdc/static/media/JDC1.cf4441d368aed730ac7b.png",
-    "static/media/bountylogo.png": "/jdc/static/media/bountylogo.abd8f279de928bd88938.png",
-    "static/media/nmislogo.png": "/jdc/static/media/nmislogo.eac1109d4ed650a21c9c.png",
-    "static/media/magnolialogo.png": "/jdc/static/media/magnolialogo.bd5928506f9acb6df5c6.png",
-    "static/media/sanmiglogo.png": "/jdc/static/media/sanmiglogo.341c61bdc4abbde59c85.png",
-    "index.html": "/jdc/index.html",
-    "main.0310efe6.css.map": "/jdc/static/css/main.0310efe6.css.map",
-    "main.c041ddc4.js.map": "/jdc/static/js/main.c041ddc4.js.map"
+    "main.css": "/jdc-app/static/css/main.0310efe6.css",
+    "main.js": "/jdc-app/static/js/main.0f015a20.js",
+    "static/media/JDC2.png": "/jdc-app/static/media/JDC2.aea3abf6816b843c8e45.png",
+    "static/media/livechicken-min.png": "/jdc-app/static/media/livechicken-min.8bbc13f7e71cd8410d85.png",
+    "static/media/chickenliver-min.png": "/jdc-app/static/media/chickenliver-min.b798ef988346809b9461.png",
+    "static/media/freshchicken.png": "/jdc-app/static/media/freshchicken.5ea525aa7b601384898e.png",
+    "static/media/JDC3.png": "/jdc-app/static/media/JDC3.50b35f7f6af1c11581bf.png",
+    "static/media/plant.png": "/jdc-app/static/media/plant.81943100d5743adc86e3.png",
+    "static/media/chickenfeet-min.png": "/jdc-app/static/media/chickenfeet-min.a7750ba8a69bf97ab1f0.png",
+    "static/media/JDC1.png": "/jdc-app/static/media/JDC1.cf4441d368aed730ac7b.png",
+    "static/media/bountylogo.png": "/jdc-app/static/media/bountylogo.abd8f279de928bd88938.png",
+    "static/media/nmislogo.png": "/jdc-app/static/media/nmislogo.eac1109d4ed650a21c9c.png",
+    "static/media/magnolialogo.png": "/jdc-app/static/media/magnolialogo.bd5928506f9acb6df5c6.png",
+    "static/media/sanmiglogo.png": "/jdc-app/static/media/sanmiglogo.341c61bdc4abbde59c85.png",
+    "index.html": "/jdc-app/index.html",
+    "main.0310efe6.css.map": "/jdc-app/static/css/main.0310efe6.css.map",
+    "main.0f015a20.js.map": "/jdc-app/static/js/main.0f015a20.js.map"
   },
   "entrypoints": [
     "static/css/main.0310efe6.css",
-    "static/js/main.c041ddc4.js"
+    "static/js/main.0f015a20.js"
   ]
 }
