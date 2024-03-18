@@ -1,0 +1,50 @@
+.container{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin: auto;
+    max-width: 1440px;
+    padding: 2em;
+}
+
+.container > div {
+    margin: 2em;
+}
+
+.businessName{
+    font-size: 30px;
+    font-weight:700;
+}
+
+.mobileNumber{
+    font-style: italic;
+}
+
+.mapContainer{
+    display: flex;
+    width: 700px;
+    flex-direction: column;
+    height: 300px;
+}
+
+.slideshow {
+    margin: 0 auto;
+    overflow: hidden;
+    width: 100%;
+  }
+  
+.slide {
+display: inline-block;
+width: 100%;
+}
+
+@media (max-width: 550px){
+    .container{
+        flex-direction: column;
+    }
+
+    .mapContainer{
+        width: auto;
+    }
+    
+}

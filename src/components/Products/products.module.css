@@ -1,0 +1,24 @@
+.container{
+    display: grid;
+    place-items: center;
+    width: 100%;
+    margin-top: 40px;
+}
+
+.container h1{
+font-size: 34px;
+font-weight: 600;
+}
+
+.productlist{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    display: grid;
+    position: relative;
+    max-width: 1440px;
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+    grid-gap: 2rem;
+    padding: 0 2rem;
+    text-align: center;
+}
+

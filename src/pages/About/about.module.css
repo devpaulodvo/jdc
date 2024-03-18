@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    max-width: 990px;
+    margin: 0 auto;
+    flex-direction: column;
+    padding: 2em;
+}
+
+.container h1{
+    margin-bottom: 20px;
+    font-size: 28px;
+    font-weight: 600;
+}

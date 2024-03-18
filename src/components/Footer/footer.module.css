@@ -1,0 +1,149 @@
+.maincontainer{
+    width: 100%;
+    background-color: #ffe872;
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+}
+
+.container{
+    display: flex;
+    align-content: center;
+    background-color: #ffe872;
+    justify-content: space-around;
+    width: 100%;
+    max-width: 1640px;
+    padding: 2em 2em;
+    margin: 0 auto;
+}
+
+.map{
+    font-size:14px;
+}
+
+.gmap{
+    display: flex;
+    flex-direction: column;
+    min-width: 300px;
+    height: 170px;
+    padding: 0em 2em;
+}
+
+.footernav{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.socialmediaContainer{
+    text-align: center;
+}
+
+.socialmediaContainer li *{
+    width: 30px;
+    height: 30px;
+    margin: 20px;
+}
+
+.partner{
+    width: auto;
+    text-align: center;
+}
+
+.partner li{
+    display: flex;
+    align-content: center;
+    justify-content:center;
+    margin-top:20px;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.partneritems{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1em;
+    margin-top: 20px;
+}
+.partneritems li{
+    margin: auto;
+    width: 75px;
+}
+
+.socialmedia{
+    display: flex;
+}
+
+.socialmedia li{
+    display: flex;
+    align-content: center;
+    justify-content:center;
+}
+
+.footerul{
+    display: grid;
+    margin: 0;
+    gap: 0.5em;
+    font-size: 15px;
+}
+
+.credits{
+    display: flex;
+    font-size: 12px;
+    align-content: center;
+    justify-content: center;
+    padding: 1em;
+    text-align: center;
+
+}
+
+@media (max-width:1350px){
+    .socialmedia{
+        flex-direction: column;
+    }
+}
+
+@media (max-width:1200px){
+    .partner{
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 1024px){
+    .container{
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+        padding: 2em 0em;
+        width: 100%;
+    }
+
+    .map{
+        margin-bottom: 20px;
+    }
+
+    .footerul{
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        margin-bottom: 30px;
+    }
+    .partner li{
+        margin-left: 0.5em;
+        margin-right: 0.5em;
+        width: 50px;;
+    }
+    .map{
+        width: 100%;
+    }
+
+    .socialmedia{
+        flex-direction: row;
+    }
+}
+
+@media (max-width: 550px){
+    .product{
+         grid-column: span 12;
+    }
+    
+}
