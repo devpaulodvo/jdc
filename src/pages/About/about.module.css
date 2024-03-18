@@ -11,3 +11,14 @@
     font-size: 28px;
     font-weight: 600;
 }
+
+.slideshow {
+    margin: 0 auto;
+    overflow: hidden;
+    width: 100%;
+  }
+  
+.slide {
+display: inline-block;
+width: 100%;
+}

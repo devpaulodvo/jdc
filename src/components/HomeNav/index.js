@@ -13,7 +13,7 @@ const HomeNav = () =>{
         <div className={`${styles.container}`}>
             <ul ref={navRef} className={`${styles.navlist}`}>
                 <NavLink to={"/"}>
-                    <li>Logo</li>
+                    <li>Jelyn's</li>
                 </NavLink>
                 <NavLink to={"/aboutus"}>
                     <li>About Us</li>

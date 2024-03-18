@@ -3,10 +3,18 @@ import styles from "./about.module.css";
 import HomeNav from "../../components/HomeNav";
 import Footer from "../../components/Footer";
 
+import chicken1 from "../../Assets/plant.png";
+
 const About = () => {
     return(
         <React.Fragment>
             <HomeNav/>
+            <div className={`${styles.slideshow}`}>
+                <div
+                    className={`${styles.slideshowSlider}`}>
+                    <img className={`${styles.heroes} ${styles.slide}`} src={chicken1}/>
+                </div>
+            </div>
             <div className={`${styles.container}`}>
                 <h1>About Us</h1>
                 <p>
@@ -14,7 +22,7 @@ const About = () => {
                     As a leading distributor in the industry, we take pride in our commitment to excellence, reliability, and customer satisfaction.
                     <br/>
                     <br/>
-                    Established in 1998, Jelyn's Poultry and Dressing Plant has quickly risen to prominence in the poultry distribution market. 
+                    Established in 1999, Jelyn's Poultry and Dressing Plant has quickly risen to prominence in the poultry distribution market. 
                     Our journey began with a simple mission: to provide fresh, hygienic, and responsibly sourced chicken products to businesses across 
                     Cebu, Philippines.
                     <br/>
