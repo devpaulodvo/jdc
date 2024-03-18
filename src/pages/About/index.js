@@ -22,7 +22,7 @@ const About = () => {
                     As a leading distributor in the industry, we take pride in our commitment to excellence, reliability, and customer satisfaction.
                     <br/>
                     <br/>
-                    Established in 1999, Jelyn's Poultry and Dressing Plant has quickly risen to prominence in the poultry distribution market. 
+                    Established in 2000, Jelyn's Poultry and Dressing Plant has quickly risen to prominence in the poultry distribution market. 
                     Our journey began with a simple mission: to provide fresh, hygienic, and responsibly sourced chicken products to businesses across 
                     Cebu, Philippines.
                     <br/>
